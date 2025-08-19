@@ -9,6 +9,7 @@ A simple React + Vite starter template with everything you need to get started q
 - 🐻 **Zustand** for state management
 - 📝 **React Hook Form** + **Zod** for forms
 - 🔄 **TanStack Query** for data fetching
+- 🔔 **Sonner** for toast notifications
 - ✨ **ESLint** for code quality
 
 ## Getting Started
