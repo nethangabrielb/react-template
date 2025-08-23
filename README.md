@@ -6,7 +6,7 @@ A simple React + Vite starter template with everything you need to get started q
 - 🎨 **Tailwind CSS** for styling
 - 🧩 **shadcn/ui** components
 - 🚦 **React Router** for navigation
-- 🐻 **Zustand** for state management
+- 🐻 **Zustand** for global state management
 - 📝 **React Hook Form** + **Zod** for forms
 - 🔄 **TanStack Query** for data fetching
 - 🔔 **Sonner** for toast notifications
